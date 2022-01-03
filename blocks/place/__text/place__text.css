@@ -1,0 +1,7 @@
+.place__text {
+  /* max-width: 288px; */
+  /* margin: 0 16px; */
+  grid-area: text;
+}
+
+

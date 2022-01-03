@@ -1,0 +1,12 @@
+.place__header {
+  /* display: flex; */
+  /* flex-wrap: wrap; */
+  /* max-width: 288px;  */
+  margin: 0 16px;
+}
+
+/* @media screen and (min-width: calc((320px + 288px) + 28px)) {
+  .place__header {
+    max-width: 720px;
+  }
+} */
