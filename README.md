@@ -1,6 +1,6 @@
 # Проектная работа 3: Путешествие по России
 
-**Описание проекта:**  
+**Описание проекта:**
  Проектная работа для закрепления знаний полученных в спринте. Проект о путешествии по России.
 
 **Используемые технологии:**
@@ -11,4 +11,4 @@
 
 **GitHub Pages**
 
-- [Ссылка на GitHub Pages](https://ivnpotapov.github.io/russian-travel/index.html)
+- [Ссылка на GitHub Pages](https://ivnpotapov.github.io/russian-travel/)
