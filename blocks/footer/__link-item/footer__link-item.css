@@ -2,6 +2,11 @@
   margin: 31px 0 0 0;
 }
 
+.footer__link-item:hover {
+  opacity: .8;
+  cursor: pointer;
+}
+
 .footer__link-item:first-child {
   margin: 0;
 }
